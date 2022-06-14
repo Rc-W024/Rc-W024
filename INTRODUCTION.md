@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Rc-W024
-- 👀 I’m interested in Remote sensing, Radar target detection and reconnaissance, and Signal processing.
-- 🌱 I’m currently a PhD student in Signal Theory and Communications with line of research: Radar remote sensing and situation awareness.
+- 👀 I’m interested in Signal & information processing, Radar target detection and reconnaissance, Remote sensing (RS)...
+- 🌱 I’m currently a PhD student in Signal Theory and Communications with line of research: Information Processing, Situation Awareness and Information Fusion, Command and Decision & Control.
 - 📫 You can reach me on Twitter (@RC001W).
 
-- 👀 兴趣研究领域：遥感，雷达目标探测识别，信号处理
-- 🌱 信号与信息处理博士在读，研究方向：雷达遥感与态势感知
+- 👀 兴趣研究领域：信号与信息处理，雷达目标探测识别，遥感......
+- 🌱 信号理论与通信博士在读，主要研究方向：信息处理，态势感知与信息融合，指挥与决策控制
 - 📫 欢迎关注我的推特：@RC001W
 
 <!---
