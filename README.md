@@ -7,8 +7,12 @@
 - 🌱 信号理论与通信博士在读，主要研究方向：信息处理，态势感知与信息融合，指挥与决策控制
 - 📫 欢迎关注我的推特：@RC001W
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight)
+
 ![](https://github-readme-stats.vercel.app/api?username=Rc-W024&theme=dark)
 
 <!---
 Rc-W024/Rc-W024 WELCOME TO MY SPACE!✨ 来坐坐，喝杯茶！
 --->
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
