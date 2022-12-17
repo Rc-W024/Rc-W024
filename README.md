@@ -32,7 +32,7 @@ Accident detection based on acceleration signals  - [`Accid Detection`](https://
 
 <br />
 
-<p align="center"><b>Access:</b></p>
+<p align="center"><b>ACCESS</b></p>
 
 <div align=center><img src="https://profile-counter.glitch.me/all-smile/count.svg"/></div>
 
