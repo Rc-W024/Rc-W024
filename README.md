@@ -19,6 +19,8 @@
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>   
 </p>
 
+<br />
+
 ### 🏆 Achievements
 CFAR-based SAR target detection - [`CFAR Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
@@ -27,6 +29,8 @@ Accident detection based on acceleration signals  - [`Accid Detection`](https://
 ### 📊 Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true" width=450 />
+
+<br />
 
 <p align="center"><b>Access:</b></p>
 
