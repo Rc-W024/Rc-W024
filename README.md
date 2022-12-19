@@ -10,7 +10,7 @@
 
 ### 💻 Languages and Tools
 <p>
-<a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Amatlab"><img alt="Matlab" src="https://img.shields.io/badge/%E2%98%85-Matlab-yellowgreen"></a>
+<a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Amatlab"><img alt="Matlab" src="https://img.shields.io/static/v1?style=&message=Matlab&color=222222&logo=Star+Trek&logoColor=FFE200&label="></a>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Ajavascript"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
