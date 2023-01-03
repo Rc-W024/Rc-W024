@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight" width=400 />
 
-- 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at [Universitat Politècnica de Catalunya](https://www.upc.edu/).
+- 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a PhD candidate at [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Signal & Information Processing, AI Data Processing, Radar Target Detection and Recognition, Signal Reconnaissance, Radar Remote Sensing...
 
 ### 💻 Languages and Tools
