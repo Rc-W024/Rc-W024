@@ -3,10 +3,10 @@
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W?logo=twitter&style=for-the-badge" alt="RC001W"/></a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight" width=400 />
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight" width=400 />
 
 - 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a PhD candidate at [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
-- 👀 I’m interested in Signal & Information & AI Data Processing, Radar Target Detection and Recognition, Signal Reconnaissance, Radar Remote Sensing...
+- 👀 I’m interested in Signal & Information Processing, Radar Target Detection and Recognition, AI Data Processing, Signal Reconnaissance, Radar Remote Sensing...
 
 ### 💻 Languages and Tools
 <p>
