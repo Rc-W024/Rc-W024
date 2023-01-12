@@ -26,7 +26,7 @@ Accident detection based on acceleration signals  - [`Accid Detection`](https://
 
 ### 📊 Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true" width=450 />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true" width=450 />
 
 <br />
 
