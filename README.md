@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W?logo=twitter&style=for-the-badge" alt="RC001W"/></a>
 </p>
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight" width=360 />
+<img align="right" src="./code.gif" width="430" height="100%" />
 
 - 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a PhD candidate at CommSensLab of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Advanced Signal & Information Processing, Radar Target Detection and Recognition, AI Data Mining/Analysis/Processing, Signal Reconnaissance, Radar Remote Sensing...
@@ -28,7 +28,7 @@ Accident detection based on acceleration signals  - [`Accid Detection`](https://
 
 ### 📊 Statistics
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true" width=450 />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true" height=180 /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight" height=180 />
 
 <br />
 
