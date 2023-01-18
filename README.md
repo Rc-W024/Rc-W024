@@ -1,9 +1,9 @@
 ![Rc-W024-0](https://user-images.githubusercontent.com/97808991/208265022-686f67df-ca1a-40f9-a9aa-c62cd6b29970.png)
 
+<img align="right" src="./code.gif" width=400 />
+
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W?logo=twitter&style=for-the-badge" alt="RC001W"/></a>
 </p>
-
-<img align="right" src="./code.gif" width=400 />
 
 - 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a PhD candidate at CommSensLab of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Advanced Signal & Information Processing, Radar Target Detection and Recognition, AI Data Mining/Analysis/Processing, Signal Reconnaissance, Radar Remote Sensing...
