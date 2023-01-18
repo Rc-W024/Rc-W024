@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a PhD candidate at CommSensLab of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Advanced Signal & Information Processing, Radar Target Detection and Recognition, AI Data Mining/Analysis/Processing, Signal Reconnaissance, Radar Remote Sensing...
-- 💻 HELLO WORLD! Keep coding...
+- 💻 HELLO WORLD! and Keep CODING...
 
 ### 💻 Languages and Tools
 <p>
@@ -19,6 +19,8 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>   
 </p>
+
+<br />
 
 ### 🏆 Achievements
 CFAR-based SAR target detection - [`CFAR Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
