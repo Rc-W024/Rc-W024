@@ -7,6 +7,7 @@
 
 - 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a PhD candidate at CommSensLab of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Advanced Signal & Information Processing, Radar Target Detection and Recognition, AI Data Mining/Analysis/Processing, Signal Reconnaissance, Radar Remote Sensing...
+- 💻 HELLO WORLD! Keep coding...
 
 ### 💻 Languages and Tools
 <p>
