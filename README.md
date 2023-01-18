@@ -3,13 +3,15 @@
 <img align="right" src="./code.gif" width=400 />
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W?logo=twitter&style=for-the-badge" alt="RC001W"/></a>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99"/>
 </p>
 
 - 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a PhD candidate at CommSensLab of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Advanced Signal & Information Processing, Radar Target Detection and Recognition, AI Data Mining/Analysis/Processing, Signal Reconnaissance, Radar Remote Sensing...
 - 💻 HELLO WORLD! and Keep CODING...
 
-### 💻 Languages and Tools
+### 🛠️ Languages and Tools
 <p>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Amatlab"><img alt="Matlab" src="https://img.shields.io/static/v1?style=&message=Matlab&color=222222&logo=Star+Trek&logoColor=FFE200&label="></a>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
