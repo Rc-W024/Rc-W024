@@ -2,8 +2,6 @@
 
 <img align="right" src="./code.gif" width=400 />
 
-<p align="left"><a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://user-images.githubusercontent.com/51878265/213865864-b6f8d38a-21d4-495d-bebd-ef2978033ae4.png" height="40" alt="RC001W"/></a></p>
-
 <p>
 <img src="https://awesome.re/badge.svg"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99"/>
