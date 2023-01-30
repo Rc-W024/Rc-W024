@@ -1,8 +1,8 @@
 ![Rc-W024-0](https://user-images.githubusercontent.com/97808991/208265022-686f67df-ca1a-40f9-a9aa-c62cd6b29970.png)
 
-<img align="right" src="./code.gif" width=400 />
+<p align="left"><a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W?logo=twitter&style=for-the-badge&color=1DA1F2" alt="RC001W"/></a>
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W?logo=twitter&style=for-the-badge&color=1DA1F2" alt="RC001W"/></a>
+<img align="right" src="./code.gif" width=400 />
 
 <p>
 <img src="https://awesome.re/badge.svg"/>
