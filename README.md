@@ -36,6 +36,10 @@ Virtual reality with OpenSpace3D - [`VR Tech`](https://github.com/Rc-W024/AR-Ope
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true" height=180 /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight" height=180 />
 </div>
 
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rc-W024&theme=dark&hide_border=false"/>
+</p>
+
 <br />
 
 <p align="center"><b>ACCESS</b></p>
