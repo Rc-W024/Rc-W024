@@ -27,7 +27,7 @@
 ### 🏆 Achievements
 CFAR-based SAR target detection - [`CFAR Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
-Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/Accident_Detection_Accel)
+Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec_Accel)
 
 Virtual reality with OpenSpace3D - [`VR Tech`](https://github.com/Rc-W024/AR-OpenSpace3D)
 
