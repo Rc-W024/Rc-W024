@@ -25,11 +25,13 @@
 </p>
 
 ### 🏆 Achievements
-CFAR-based SAR target detection - [`CFAR Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
+- CFAR-based SAR target detection - [`CFAR Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
-Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
+- Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
-Virtual reality with OpenSpace3D - [`VR Tech`](https://github.com/Rc-W024/AR-OpenSpace3D)
+- Feature extraction and classification with Weka - [`Fea Extr&Classif Weka`](https://github.com/Rc-W024/FeaExtrClassif-Weka)
+
+- Virtual reality with OpenSpace3D - [`VR Tech`](https://github.com/Rc-W024/AR-OpenSpace3D)
 
 ### 📊 Statistics
 <div align=center>
