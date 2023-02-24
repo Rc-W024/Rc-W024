@@ -1,4 +1,6 @@
-![Rc-W024](https://user-images.githubusercontent.com/97808991/221169994-ce9833bd-dd5b-45ff-8492-d99604b39dc0.png)
+<div align=center>
+![Rc-W024](https://user-images.githubusercontent.com/97808991/221172015-f1d8fe13-01bb-4728-b6bc-d6b05235fb33.png)
+</div>
 <!--![Rc-W024-0](https://user-images.githubusercontent.com/97808991/208265022-686f67df-ca1a-40f9-a9aa-c62cd6b29970.png)-->
 
 <p align="left"><a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W?logo=twitter&style=for-the-badge&color=1DA1F2" alt="RC001W"/></a></p>
