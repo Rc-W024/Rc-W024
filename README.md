@@ -1,5 +1,5 @@
 <div align=center>
-![Rc-W024](https://user-images.githubusercontent.com/97808991/221172015-f1d8fe13-01bb-4728-b6bc-d6b05235fb33.png)
+<img src="https://user-images.githubusercontent.com/97808991/221172015-f1d8fe13-01bb-4728-b6bc-d6b05235fb33.png" />
 </div>
 <!--![Rc-W024-0](https://user-images.githubusercontent.com/97808991/208265022-686f67df-ca1a-40f9-a9aa-c62cd6b29970.png)-->
 
