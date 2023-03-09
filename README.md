@@ -35,7 +35,7 @@
 
 - Feature extraction and classification with Weka - [`Feature Extr&Classif Weka`](https://github.com/Rc-W024/FeaExtrClassif-Weka)
 
-- Virtual reality with OpenSpace3D - [`VR Tech`](https://github.com/Rc-W024/AR-OpenSpace3D)
+- Augmented reality with OpenSpace3D - [`AR Tech`](https://github.com/Rc-W024/AR-OpenSpace3D)
 
 ### 📊 Statistics
 <div align=center>
