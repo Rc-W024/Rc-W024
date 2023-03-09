@@ -33,7 +33,7 @@
 
 - Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
-- Feature extraction and classification with Weka - [`Fea Extr&Classif Weka`](https://github.com/Rc-W024/FeaExtrClassif-Weka)
+- Feature extraction and classification with Weka - [`Feature Extr&Classif Weka`](https://github.com/Rc-W024/FeaExtrClassif-Weka)
 
 - Virtual reality with OpenSpace3D - [`VR Tech`](https://github.com/Rc-W024/AR-OpenSpace3D)
 
