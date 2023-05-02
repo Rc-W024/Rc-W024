@@ -48,7 +48,7 @@
 
 <br>
 
-<p align="center"><b>-- ACCESS --</b></p>
+<p align="center" style="font-size:50px"><b>ACCESS</b></p>
 
 <div align=center><img src="https://profile-counter.glitch.me/all-smile/count.svg"/></div>
 
