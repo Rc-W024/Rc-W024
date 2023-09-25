@@ -39,7 +39,7 @@
 </div>
 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rc-W024&theme=dark&hide_border=false"/> 
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rc-W024&theme=dark&hide_border=false"/>
 </p>
 
 <br>
