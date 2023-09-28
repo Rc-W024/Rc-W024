@@ -15,7 +15,7 @@
 
 - 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at CommSensLab of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Intelligent Signal/Information Processing, Reconfigurable RSoC-based HPC, Advanced SP, Situation Awareness, AI, Micro-Motion Signal Analysis, Cybersecurity & Cyberintelligence, Radar Remote Sensing (IntelliSense)...
-- 💻 HELLO WORLD! and keep coding...<br>✨ ¡HOLA MUNDO! Siempre avanzando con los códigos...
+- 💻 HELLO WORLD! and keep coding...<br>✨ ¡HOLA MUNDO! Siempre avanzando con los códigos...<br>🀄 你好，世界！
 
 ### 🛠️ Languages and Tools
 <p>
