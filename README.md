@@ -17,7 +17,7 @@
 - 👀 I’m interested in Intelligent Signal/Information Processing, Reconfigurable RSoC-based HPC, Advanced SP, Situation Awareness, AI, Micro-Motion Signal Analysis, Cybersecurity & Cyberintelligence, Radar Remote Sensing (IntelliSense)...
 - 💻 HELLO WORLD! and keep coding...<br>✨ ¡HOLA MUNDO! Siempre avanzando con los códigos...<br>🀄 你好，世界！一直“中”下去......
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 <p>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Amatlab"><img alt="MATLAB" src="https://img.shields.io/static/v1?style=&message=MATLAB&color=222222&logo=Star+Trek&logoColor=FFE200&label="></a>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
