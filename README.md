@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99"/>
 </p>
 
-- 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at CommSensLab of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
+- 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at [**CommSensLab**](https://commsenslab.upc.edu/) of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Intelligent Signal/Information Processing, Reconfigurable-RSoC-based HPC Tech, Situation Awareness, AI, Cybersecurity & Cyberintelligence, Radar Remote Sensing (IntelliSense)...
 - 💻 HELLO WORLD! and keep coding...<br>✨ ¡HOLA MUNDO! Siempre avanzando con los códigos...<br>🀄 你好，世界！一直“中”下去......
 
