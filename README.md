@@ -6,7 +6,7 @@
 <br>
 <p align="left"><a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W" alt="RC001W"/></a></p>
 
-<img align="right" src="./code.gif" width=420 />
+<img align="right" src="./code.gif" width=410 />
 
 <p>
 <img src="https://awesome.re/badge.svg"/>
