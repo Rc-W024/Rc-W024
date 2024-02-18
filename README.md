@@ -1,4 +1,4 @@
-<!--![Rc-W024-0](https://user-images.githubusercontent.com/97808991/208265022-686f67df-ca1a-40f9-a9aa-c62cd6b29970.png)-->
+<!--https://user-images.githubusercontent.com/97808991/208265022-686f67df-ca1a-40f9-a9aa-c62cd6b29970.png-->
 <div align=center>
 <img src="https://user-images.githubusercontent.com/97808991/221172883-3fabcb1f-6276-4ecd-9122-ceb053cb2fb5.png" />
 <img src="https://user-images.githubusercontent.com/97808991/221172015-f1d8fe13-01bb-4728-b6bc-d6b05235fb33.png" />
