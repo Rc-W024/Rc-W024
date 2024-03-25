@@ -9,7 +9,7 @@
 <img src="https://awesome.re/badge.svg"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99"/>
 </p>
-<img align="right" src="./code.gif" width=410 />
+<img align="right" src="./code.gif" width=390 />
 
 - 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at the [**Signal Theory and Communications (TSC) Department**](https://tsc.phd.upc.edu/en) of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 👀 I’m interested in Signal and Information Processing, Radio Remote Sensing (Wireless Communication & IntelliSense), Cybersecurity (Radio Biometrics), Situation Awareness, Artificial Intelligence Algorithms...
