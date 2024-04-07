@@ -36,8 +36,6 @@
 
 - Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
-- SQL injection based on GEOINT (PostgreSQL) - [`SQL Injection`](https://github.com/Rc-W024/SQL-injection)
-
 - 3D model AR realization with OpenSpace3D - [`AR OS3D`](https://github.com/Rc-W024/AR-OpenSpace3D))
 
 ### 📊 Statistics
