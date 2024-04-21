@@ -15,7 +15,7 @@
 - 👀 I’m interested in Signal and Information Processing, Radio Remote Sensing (Wireless Communication & IntelliSense), Cybersecurity (Radio Biometrics), Situation Awareness, Artificial Intelligence Algorithms...
 - 💻 HELLO WORLD! and keep coding...<br>✨ ¡HOLA MUNDO! Siempre avanzando con los códigos...<br>🀄 你好，世界！一直“**中**”下去......
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <p>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Amatlab"><img alt="MATLAB" src="https://img.shields.io/static/v1?style=&message=MATLAB&color=222222&logo=Star+Trek&logoColor=FFE200&label="></a>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
@@ -31,20 +31,19 @@
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
-## 🌟 Highlight
+### 🌟 Highlights
 - CFAR & MM-based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
 - Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
 - 3D model AR realization with OpenSpace3D - [`AR OS3D`](https://github.com/Rc-W024/AR-OpenSpace3D))
 
-## 📊 Statistics
-### 🏆 Github Profile Trophy
-<div align=center>
-<img src="https://github-profile-trophy.vercel.app/?username=Rc-W024&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true" />
-</div>
+### 📊 Statistics
+🏆 **Github Profile Trophy**
 
-### 🏅 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Rc-W024&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true)
+
+🏅 **Achievements**
 <div align=center>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true&rank_icon=github" height=180 /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight" height=180 />
 </div>
