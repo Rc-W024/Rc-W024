@@ -39,10 +39,11 @@
 - 3D model AR realization with OpenSpace3D - [`AR OS3D`](https://github.com/Rc-W024/AR-OpenSpace3D))
 
 ### 📊 Statistics
-🏆 **Github Profile Trophy**
+🏆 **Trophy**
 <div align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=Rc-W024&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true" width=800 />
 </div>
+<br>
 
 🏅 **Achievement**
 <div align=center>
