@@ -11,8 +11,8 @@
 </p>
 <img align="right" src="./code.gif" width=390 />
 
-- 👋 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at the [**Signal Theory and Communications (TSC) Department**](https://tsc.phd.upc.edu/en) of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
-- 👀 I’m interested in Signal and Information Processing, Radio Remote Sensing (Wireless Communication & IntelliSense), Cybersecurity (Radio Biometrics), Situation Awareness, Artificial Intelligence Algorithms...
+- 👨‍🎓 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at the [**Signal Theory and Communications (TSC) Department**](https://tsc.phd.upc.edu/en) of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
+- 🎯 I’m interested in Signal and Information Processing, Radio Remote Sensing (Wireless Communication & IntelliSense), Cybersecurity (Radio Biometrics), Situation Awareness, Artificial Intelligence Algorithms...
 - 💻 HELLO WORLD! and keep coding...<br>✨ ¡HOLA MUNDO! Siempre avanzando con los códigos...<br>🀄 你好，世界！一直“**中**”下去......
 
 ### 🛠️ Tech Stack
@@ -31,21 +31,20 @@
 <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
-### 🌟 Highlights
+### 🌟 Achievements
 - CFAR & MM-based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
 - Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
 - 3D model AR realization with OpenSpace3D - [`AR OS3D`](https://github.com/Rc-W024/AR-OpenSpace3D))
 
-### 📊 Statistics
-🏆 **Trophy**
+### 🏆 Trophy
 <div align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=Rc-W024&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true" width=800 />
 </div>
 <br>
 
-🏅 **Achievement**
+### 📊 Statistics
 <div align=center>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true&rank_icon=github" height=180 /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rc-W024&layout=compact&theme=tokyonight" height=180 />
 </div>
