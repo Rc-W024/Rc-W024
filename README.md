@@ -32,7 +32,7 @@
 </p>
 
 ### 🌟 Achievements
-- THz RSoC-based vital signal processing - [`RADAR Biometrics`](https://github.com/Rc-W024/VitalSense2024) **(*Coming Soon...*)**
+- THz RSoC-based vital signal processing - `RADAR Biometrics` **(*Coming Soon...*)**
 
 - CFAR & MM-based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
