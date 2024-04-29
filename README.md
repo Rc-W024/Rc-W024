@@ -32,9 +32,9 @@
 </p>
 
 ### 🌟 Achievements
-- THz RSoC-based vital signal processing - `RADAR Biometrics` **(*Coming Soon...*)**
+- THz RADAR-based vital signal processing - `Radio Vital Sensing` **(*Coming Soon...*)**
 
-- CFAR & MM-based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
+- CFAR & MM based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
 - Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
