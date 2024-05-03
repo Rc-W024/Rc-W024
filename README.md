@@ -32,7 +32,7 @@
 </p>
 
 ### 🌟 Achievements
-- THz RADAR-based vital signal processing - `Wireless Vital Sensing` **(*Coming Soon...*)**
+- mmW RADAR-based vital signal processing - `Wireless Vital Sensing` **(*Coming Soon...*)**
 
 - CFAR & MM based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
