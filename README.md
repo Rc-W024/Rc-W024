@@ -4,7 +4,6 @@
 <img src="https://user-images.githubusercontent.com/97808991/221172015-f1d8fe13-01bb-4728-b6bc-d6b05235fb33.png" />
 </div>
 <br>
-<p align="left"><a href="https://twitter.com/intent/follow?screen_name=RC001W" target="blank"><img src="https://img.shields.io/twitter/follow/RC001W" alt="RC001W"/></a></p>
 <p>
 <img src="https://awesome.re/badge.svg"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99"/>
