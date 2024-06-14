@@ -7,6 +7,7 @@
 <p>
 <img src="https://awesome.re/badge.svg"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99"/>
+<img src="https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?logo=intel&logoColor=white"/>
 </p>
 <img align="right" src="./code.gif" width=390 />
 
