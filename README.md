@@ -22,16 +22,16 @@
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Ahtml&type=repositories"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Ajavascript&type=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=user%3ARc-W024+is%3Arepo+language%3Ajavascript&type=repositories"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="LaTex" src="https://img.shields.io/badge/LaTeX-47A141?&logo=LaTeX&logoColor=white"></a>
-<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white"></a>
-<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?logo=Overleaf&logoColor=white"></a>
-<a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
-<a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252"></a>
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
+<a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?&logo=LaTeX&logoColor=white"></a>
+<a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+<a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white"></a>
+<a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="https://www.postgresql.org/"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
+<a href="https://www.overleaf.com/"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?logo=Overleaf&logoColor=white"></a>
+<a href="https://www.eclipse.org/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white"></a>
+<a href="https://colab.research.google.com/"><img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252"></a>
+<a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
 ### 🌟 Achievements
