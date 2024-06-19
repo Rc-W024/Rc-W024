@@ -51,7 +51,7 @@
 
 ### 📊 Statistics
 <div align=center>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true&rank_icon=github" height=180 /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rc-W024&hide=javascript,css&layout=compact&theme=tokyonight" height=180 />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true&include_all_commits=true&rank_icon=github" height=180 /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rc-W024&hide=javascript,css&layout=compact&theme=tokyonight" height=180 />
 </div>
 
 <p align="center">
