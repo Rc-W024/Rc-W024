@@ -51,11 +51,11 @@
 
 ### 📊 Statistics
 <div align=center>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true&include_all_commits=true&rank_icon=github" height=180 /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rc-W024&theme=dark&hide_border=false" height=180 />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rc-W024&count_private=true&theme=dark&show_icons=true&include_all_commits=true&rank_icon=github" height=160 /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rc-W024&theme=dark&hide_border=false" height=160 />
 </div>
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/Rc-W024/github-stats-transparent/output/generated/overview.svg" height=210 /> <img src="https://raw.githubusercontent.com/Rc-W024/github-stats-transparent/output/generated/languages.svg" height=210 />
+<img src="https://raw.githubusercontent.com/Rc-W024/github-stats-transparent/output/generated/overview.svg" height=200 /> <img src="https://raw.githubusercontent.com/Rc-W024/github-stats-transparent/output/generated/languages.svg" height=200 />
 </div>
 
 <br>
