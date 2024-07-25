@@ -41,8 +41,6 @@
 
 - Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
-- 3D model AR realization with OpenSpace3D - [`AR OS3D`](https://github.com/Rc-W024/AR-OpenSpace3D)
-
 ### 🏆 Trophy
 <div align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=Rc-W024&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true" width=800 />
