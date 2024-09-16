@@ -35,7 +35,7 @@
 </p>
 
 ### 🌟 Achievements
-- mmWave RADAR-based vital signal processing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) ℹ️ ***Coming Soon...***
+- Adaptive Tech based vital signal processing - [`mmWave RADAR VitalSense`](https://github.com/Rc-W024/VitalSense2024) ℹ️ ***Coming Soon...***
 
 - CFAR & MM based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
