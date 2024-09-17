@@ -12,7 +12,7 @@
 <img align="right" src="./code.gif" width=390 />
 
 - 👨‍🎓 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at the [**Signal Theory and Communications (TSC) Department**](https://tsc.phd.upc.edu/) of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
-- 🎯 I’m interested in Signal and Information Processing, Wireless Communications (Radio Remote Sensing & IntelliSense), Artificial Intelligence, Cybersecurity (mmWave Sensing, New Modality Biometrics), Situation Awareness...
+- 🎯 I’m interested in Signal Processing, Ubiquitous Communication and Intelligent Computing (Radio Remote Sensing & IntelliSense), Artificial Intelligence, Cybersecurity (mmWave Sensing, New Modality Biometrics), Situation Awareness...
 - 💻 HELLO WORLD! and keep coding...<br>✨ ¡HOLA MUNDO! Siempre avanzando con los códigos...<br>🀄 你好，世界！一直“**中**（zhóng）”下去......
 
 ### 🛠️ Tech Stack
@@ -35,7 +35,7 @@
 </p>
 
 ### 🌟 Achievements
-- Adaptive Tech based vital signal processing - [`mmWave RADAR VitalSense`](https://github.com/Rc-W024/VitalSense2024) ℹ️ ***Coming Soon...***
+- Adaptive Tech-based vital signal processing - [`mmWave VitalSense`](https://github.com/Rc-W024/VitalSense2024) ℹ️ ***Coming Soon...***
 
 - CFAR & MM based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
