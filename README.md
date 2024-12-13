@@ -35,7 +35,7 @@
 </p>
 
 ### 🌟 Achievements
-- Mission planning for radio vital sensing - `RADAR Autonomous Localization` -- *In Progress...*
+- Mission planning for radio vital sensing - `RADAR Auton Localization` -- *In Progress...*
 
 - Adaptive Tech-based vital signal processing - [`mmWave VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
