@@ -39,11 +39,11 @@
 
 - mmWave RADAR-based vital signal processing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
-- Repetitive waveform adaptive matched filtering for vital signal processing - [`RWAMF`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
+- Repetitive waveform adaptive matched filtering - [`Wireless VitalSig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
 
 - CFAR & MM based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
-- Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
+- E-Scooter Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
 ### 🏆 Trophy
 <div align=center>
