@@ -41,7 +41,7 @@
 
 - Repetitive waveform adaptive matched filtering - [`Wireless VitalSig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
 
-- CFAR & MM based SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
+- CFAR & MM based Spaceborne SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
 - E-Scooter Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
