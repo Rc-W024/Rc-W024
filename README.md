@@ -37,13 +37,13 @@
 ### 🌟 Achievements
 - Mission planning for radio vital sensing - `RADAR Auton Localization` -- *In Progress...*
 
-- mmWave RADAR-based vital signal processing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
+- THz FMCW RADAR-based wireless vital signs monitoring - [`mmWave Sensing`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
-- Repetitive waveform adaptive matched filtering - [`Wireless VitalSig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
+- Repetitive waveform AMF for HR recognition - [`VitalSig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
 
-- CFAR & MM based Spaceborne SAR target detection - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
+- Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
-- E-Scooter Accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
+- E-Scooter accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
 ### 🏆 Trophy
 <div align=center>
