@@ -39,7 +39,7 @@
 
 - THz FMCW RADAR-based wireless vital signs monitoring - [`mmWave Sensing`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
-- Repetitive waveform AMF for HR recognition - [`VitalSig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
+- Repetitive waveform AMF for RR/HR recognition - [`VitalSig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
