@@ -37,7 +37,7 @@
 ### 🌟 Achievements
 - Mission planning for radio vital sensing - `RADAR Auton Localization` -- *In Progress...*
 
-- THz FMCW RADAR-based wireless vital signs monitoring - [`mmWave Sensing`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
+- THz FMCW RADAR-based wireless biometric extraction - [`mmWave Sensing`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
 - Repetitive waveform AMF for RR/HR recognition - [`VitalSig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
 
