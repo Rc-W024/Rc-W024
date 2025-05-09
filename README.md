@@ -35,7 +35,7 @@
 </p>
 
 ### 🌟 Achievements
-- Mission planning for radio vital sensing - `mmVital` -- *In Progress...*
+- Mission planning for radar autonomous radio vital sensing - `mmVital` -- *In Progress...*
 
 - THz FMCW RADAR-based wireless biometric extraction - [`mmWave Sensing`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
@@ -43,7 +43,7 @@
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
-- E-Scooter accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
+- E-scooter accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
 
 ### 🏆 Trophy
 <div align=center>
