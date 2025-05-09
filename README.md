@@ -35,7 +35,7 @@
 </p>
 
 ### 🌟 Achievements
-- Mission planning for radio vital sensing - `RADAR Auton Localization` -- *In Progress...*
+- Mission planning for radio vital sensing - `mmVital` -- *In Progress...*
 
 - THz FMCW RADAR-based wireless biometric extraction - [`mmWave Sensing`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
