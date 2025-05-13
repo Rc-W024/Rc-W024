@@ -37,9 +37,9 @@
 ### 🌟 Achievements
 - Mission planning for radar autonomous radio vital sensing - `mmVital` -- *In Progress...*
 
-- THz FMCW RADAR-based wireless biometric extraction - [`mmWave Sensing`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
+- mmWave THz RADAR-based wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
-- Repetitive waveform AMF for RR/HR recognition - [`VitalSig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
+- Repetitive waveform AMF for RR/HR recognition - [`Micro-Motion Sig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
