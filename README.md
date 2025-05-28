@@ -43,8 +43,6 @@
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
-- E-scooter accident detection based on acceleration signals - [`Accid Detection`](https://github.com/Rc-W024/AccidDetec-Accel)
-
 ### 🏆 Trophy
 <div align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=Rc-W024&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-frame=true" width=800 />
