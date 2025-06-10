@@ -35,7 +35,7 @@
 </p>
 
 ### 🌟 Achievements
-- Mission planning for radar autonomous radio vital sensing - `mmVital` -- *In Progress...*
+- Mission planning for radar radio autonomous vital sensing - `mmVital` -- *In Progress...*
 
 - mmWave FMCW RSoC-based wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
