@@ -12,7 +12,7 @@
 <img align="right" src="./code.gif" width=390 />
 
 - 👨‍🎓 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at the [**Signal Theory and Communications (TSC) Department**](https://tsc.phd.upc.edu/) of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
-- 🎯 I’m centered on advanced interdisciplinary studies in Wireless Sensing and Ubicomp, including Signal Processing, Radio Remote Sensing (RADAR IntelliSense), IoT (IoMT), Cybersecurity (mmWave Sensing, New Modality Biometrics), Situation Awareness (Mission Planning)...
+- 🎯 I’m centered on advanced interdisciplinary studies in Wireless Sensing and Ubicomp, including Signal Processing, Radio Remote Sensing (RADAR IntelliSense), IoT (IoMT), Cybersecurity (mmWave Sensing and New Modality Biometrics), Situation Awareness (Mission Planning)...
 - 💻 HELLO WORLD! and keep coding...<br>✨ ¡HOLA MUNDO! Siempre avanzando con los códigos...<br>🀄 你好，世界！一直“**中**（zhóng）”下去......
 
 ### 🛠️ Tech Stack
@@ -39,7 +39,7 @@
 
 - mmWave FMCW RSoC-based wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
-- Repetitive waveform AMF for RR/HR recognition - [`Micro-Motion Sig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Coming Soon...*
+- Repetitive waveform AMF for RR/HR recognition - [`Micro-Motion Sig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Hold On*
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
