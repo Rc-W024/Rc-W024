@@ -39,7 +39,7 @@
 
 - mmWave FMCW RSoC-based wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
-- Repetitive waveform AMF for RR/HR recognition - [`Micro-Motion Sig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *Hold On*
+- Repetitive waveform AMF for RR/HR recognition - [`Micro-Motion Sig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *On Hold*
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
