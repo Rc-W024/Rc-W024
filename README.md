@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99"/>
 <img src="https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?logo=intel&logoColor=white"/>
 </p>
-<img align="right" src="./code.gif" width=390 />
+<img align="right" src="./code.gif" width=400 />
 
 - 👨‍🎓 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. candidate at the [**Signal Theory and Communications (TSC) Department**](https://tsc.phd.upc.edu/) of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
 - 🎯 I’m centered on advanced interdisciplinary studies in Wireless Sensing and Ubicomp, including Signal Processing, Radio Remote Sensing (RADAR IntelliSense), IoT (IoMT), Cybersecurity (mmWave Sensing and New Modality Biometrics), Situation Awareness (Mission Planning)...
