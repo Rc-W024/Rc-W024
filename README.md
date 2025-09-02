@@ -61,7 +61,7 @@
 
 <br>
 
-<p align="center"><b>ACCESS DATA</b></p>
+<p align="center"><b>ACCESS DATA</b> (RESET <i>since 2025.8</i>)</p>
 
 <div align=center><img src="https://profile-counter.deno.dev/Rc-W024/count.svg"/></div>
 
