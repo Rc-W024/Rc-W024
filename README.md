@@ -38,9 +38,9 @@
 ### 🌟 Achievements
 - Mission planning for radar radio autonomous localization & sensing - `mmVital` -- *In Progress...*
 
-- mmWave RSoC wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
-
 - New radio based human vital signal dataset - *Coming Soon...*
+
+- mmWave RSoC wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
 - Repetitive waveform AMF for RR/HR recognition - [`Micro-Motion Sig Processing`](https://github.com/Rc-W024/RWAMF-BioSP) -- *On Hold*
 
