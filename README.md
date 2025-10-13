@@ -38,7 +38,7 @@
 ### 🌟 Achievements
 - Distributed bistatic radar based blood flow velocity & propagation -- *In Progress...*
 
-- Mission planning for radar radio autonomous localization & sensing - `mmVital` -- *In Progress...*
+- Mission planning for radar radio autonomous localization & sensing -- *In Progress...*
 
 - New radio based healthy human vital signal dataset -- *Coming Soon...*
 
