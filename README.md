@@ -40,7 +40,7 @@
 
 - Mission planning for radar radio autonomous localization & sensing -- *In Progress...*
 
-- New radio based healthy human vital signal dataset -- *Coming Soon...*
+- New radio based healthy human vital signal dataset - [`VS_DATASET`](https://github.com/Rc-W024/VS_DATASET) -- *Coming Soon...*
 
 - mmWave RSoC wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
