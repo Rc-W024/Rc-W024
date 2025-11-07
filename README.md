@@ -38,7 +38,7 @@
 ### 🌟 Achievements
 - Distributed bistatic radar based blood flow velocity & propagation -- *In Progress...*
 
-- Mission planning for radar radio autonomous localization & sensing -- *In Progress...*
+- Mission planning for cognitive radar radio autonomous orientation -- *In Progress...*
 
 - New radio based healthy human vital signal dataset - [`VS_DATASET`](https://github.com/Rc-W024/VS_DATASET) -- *Coming Soon...*
 
