@@ -40,7 +40,7 @@
 
 - Mission planning for cognitive radar radio autonomous orientation -- *In Progress...*
 
-- New radio based healthy human vital signal dataset - [`VS_DATASET`](https://github.com/Rc-W024/VS_DATASET) -- *Coming Soon...*
+- New radio based healthy human vital signal dataset - [`VS_DATASET`](https://github.com/Rc-W024/VS_DATASET)
 
 - mmWave RSoC wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
