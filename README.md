@@ -36,15 +36,15 @@
 </p>
 
 ### 🌟 Achievements
-- Distributed bistatic radar based blood flow velocity & propagation -- *In Progress...*
-
-- Mission planning for cognitive radar radio autonomous orientation -- *In Progress...*
-
-- New radio based healthy human vital signal dataset - [`VS_DATASET`](https://github.com/Rc-W024/VS_DATASET)
-
 - mmWave RSoC wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
 
+- Mission planning for cognitive radar beam autonomous orientation - `mmVital` -- *In Progress...*
+  
+- New radio based healthy human vital signal dataset - [`VS_DATASET`](https://github.com/Rc-W024/VS_DATASET)
+
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
+
+- Distributed bistatic radar based blood flow velocity & propagation -- *In Progress...*
 
 ### 🏆 Trophy
 <div align=center>
