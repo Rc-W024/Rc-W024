@@ -44,7 +44,7 @@
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
-- Distributed bistatic radar based blood flow velocity & propagation -- *In Progress...*
+- Distributed bistatic radar based hemodynamics -- *In Progress...*
 
 ### 🏆 Trophy
 <div align=center>
