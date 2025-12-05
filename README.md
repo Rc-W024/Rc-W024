@@ -37,12 +37,12 @@
 
 ### 🌟 Achievements
 - mmWave RSoC wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
-
-- Mission planning for radar beam autonomous orientation - `mmVital` -- *In Progress...*
   
 - mmWave radio based healthy human vital signal dataset - [`VS_DATASET`](https://github.com/Rc-W024/VS_DATASET)
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
+
+- Mission planning for radar beam autonomous orientation - `mmVital` -- *In Progress...*
 
 - Distributed bistatic radar based hemodynamics -- *In Progress...*
 
