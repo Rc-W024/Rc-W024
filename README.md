@@ -36,7 +36,7 @@
 </p>
 
 ### 🌟 Achievements
-- mmWave RSoC wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon...*
+- mmWave RSoC wireless biometric sensing - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024) -- *Coming Soon (Awaiting Proof)*
   
 - mmWave radio based healthy human vital signal dataset - [`VS_DATASET`](https://github.com/Rc-W024/VS_DATASET)
 
