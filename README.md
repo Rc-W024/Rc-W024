@@ -63,7 +63,7 @@
 
 <br>
 
-<p align="center"><b>ACCESS DATA</b> (RESET <i>since 2025.8</i>)</p>
+<p align="center"><b>ACCESS DATA</b> (RESET <i>since 2026.1</i>)</p>
 
-<div align=center><img src="https://profile-counter.deno.dev/Rc-W024/count.svg"/></div>
+<div align=center><a href="https://u8views.com/github/Rc-W024"><img src="https://u8views.com/api/v1/github/profiles/97808991/views/day-week-month-total-count.svg"></a></div>
 
