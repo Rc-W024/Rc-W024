@@ -44,7 +44,7 @@
 
 - Mission planning for radar beam autonomous orientation - `mmVital` -- *In Progress...*
 
-- Distributed bistatic radar based hemodynamics -- *In Progress...*
+<!-- - Distributed bistatic radar based hemodynamics -- *In Progress...*-->
 
 ### 🏆 Trophy
 <div align=center>
