@@ -42,7 +42,7 @@
 
 - Spaceborne SAR target detection with CFAR & MM - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
-- Mission planning for radar beam autonomous orientation - `mmVital` -- *In Progress...*
+- Mission planning for autonomous radar beam orientation - `mmVital` -- *In Progress...*
 
 <!-- - Distributed bistatic radar based hemodynamics -- *In Progress...*-->
 
