@@ -12,8 +12,8 @@
 <img align="right" src="./code.gif" width=400 />
 
 - 👨‍🎓 Hi, I’m [@Rc-W024](https://github.com/Rc-W024), a Ph.D. graduate in Signal Theory and Communications from [**CommSensLab-UPC - Centre Específic de Recerca en Comunicació i Detecció UPC**](https://tsc.upc.edu/en/research/research-groups/commsenslab) of the [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu/).
-- 🎯 I’m centered on advanced interdisciplinary studies in Wireless Sensing and Ubicomp, including mmWave Radio Sensing (RADAR Remote Sensing), smart IoT (IoMT), Information Security (New Modality Biometrics, Side-Channel Attack)...
-- 🛡 Conduct R&D in mmWave sensing, signal processing, and high-performance MEC to support systems capable of gathering reliable situation awareness information, focusing on **INTELLIGENCE** *(SIGINT, MASINT, IMINT, GEOINT, OSINT...)*!
+- 🎯 I’m centered on advanced interdisciplinary studies in Wireless Sensing and Ubicomp, including mmWave Sensing (RADAR Remote Sensing), IoT Tech (Next-Generation IoMT), Information Security (New Modality Biometrics, Side-Channel Attack)...
+- 🛡 Conduct R&D in advanced signal processing and high-performance MEC to support systems capable of gathering reliable situation awareness information, focusing on **INTELLIGENCE** *(SIGINT, MASINT, IMINT, GEOINT, OSINT...)*!
 - 💻 HELLO WORLD! and keep coding...<br>✨¡HOLA MUNDO! Juntos con el código, siempre en progreso...<br>🀄 你好，世界！一直“**中**（zhóng）”下去......
 
 ### 🛠️ Tech Stack
