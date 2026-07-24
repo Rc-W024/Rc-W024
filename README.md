@@ -38,7 +38,7 @@
 ### 🌟 Selected Projects
 - mmWave RSoC wireless biometric sensing at the edge - [`VitalSense`](https://github.com/Rc-W024/VitalSense2024)
   
-- mmWave radio based healthy human vital signal dataset - [`DATASET`](https://github.com/Rc-W024/VS_DATASET)
+- mmWave radio based healthy and patient cohorts vital signal datasets - [`DATASET`](https://github.com/Rc-W024/VS_DATASET)
 
 - Spaceborne SAR maritime target reconnaissance & identification - [`Ship Detection`](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)
 
